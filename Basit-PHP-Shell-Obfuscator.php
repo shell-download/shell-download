@@ -1,7 +1,7 @@
 <?php
 /*   __________________________________________________________________________________________________
-    |                    Basit-PHP-Shell-Obfuscator - Php Obfuscator 2.0.14		                  |
-    |                                on 2025-01-25 07:56:33   			                          |
+    |                    Basit-PHP-Shell-Obfuscator - Php Obfuscator 2.0.14		              |
+    |                                on 2025-01-25 07:56:33   			                      |
     |GitHub: https://github.com/shell-download/shell-download/blob/main/Basit-PHP-Shell-Obfuscator.php|
     |Site: https://shell-downloadd.blogspot.com/2025/01/basit-php-shell.html                          |
     |_________________________________________________________________________________________________|
